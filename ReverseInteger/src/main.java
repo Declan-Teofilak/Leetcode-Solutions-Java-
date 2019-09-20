@@ -1,3 +1,4 @@
+//Takes an integer and reverse the output i.e 123 returns 321
 
 public class main {
 
