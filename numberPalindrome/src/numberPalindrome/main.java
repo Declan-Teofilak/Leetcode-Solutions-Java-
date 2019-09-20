@@ -1,3 +1,6 @@
+//takes an integer and returns whether or not the number is a palindrome
+//i.e 121 returns true
+
 package numberPalindrome;
 //SUCCESS
 public class main {
