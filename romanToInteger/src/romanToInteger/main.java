@@ -1,3 +1,5 @@
+//takes input of a string roman numeral and converts it to an integer
+
 package romanToInteger;
 //SUCCESS
 public class main {
